@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### try { JustDoIt() } catch { KeepLearning() }
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AliSoltaniorg?cardType=github&theme=vue)](https://git.io/awesome-stats-card)
+
 <!--
 **AliSoltaniorg/AliSoltaniorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
