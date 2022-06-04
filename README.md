@@ -1,4 +1,5 @@
 ### Hi there 👋
+### try { JustDoIt() } catch { KeepLearning() }
 
 <!--
 **AliSoltaniorg/AliSoltaniorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
