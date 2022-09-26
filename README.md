@@ -1,12 +1,6 @@
 ### Hi there 👋
 ### try { JustDoIt() } catch { KeepLearning() }
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AliSoltaniorg?cardType=github&theme=dracula)](https://git.io/awesome-stats-card)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliSoltaniorg)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AliSoltaniorg&theme=dark&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://stackoverflow.com/users/12595326/ali-soltani"><img src="https://stackoverflow.com/users/flair/12595326.png?theme=dark" width="208" height="58" alt="profile for Ali Soltani at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ali Soltani at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--
 **AliSoltaniorg/AliSoltaniorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
