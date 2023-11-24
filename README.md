@@ -1,5 +1,12 @@
 ### Hi there 👋
-### try { JustDoIt() } catch { KeepLearning() }
+```cs
+try {
+  JustDoIt()
+} catch {
+  KeepLearning()
+}
+```
+
 
 <a href="https://stackoverflow.com/users/12595326/ali-soltani"><img src="https://stackoverflow.com/users/flair/12595326.png?theme=dark" width="208" height="58" alt="profile for Ali Soltani at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ali Soltani at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--
